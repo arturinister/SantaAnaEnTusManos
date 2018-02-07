@@ -20,7 +20,7 @@ El respeto a tu privacidad está totalmente garantizado.
 
 8 - La aplicación utiliza la cámara del dispositivo como interfaz para mostrar elementos de Realidad Aumentada, en ningún momento captura o guarda fotos e imágenes a través de la aplicación.
 
-9 - Clasificación por edades: PEGI 3 - Apto para todos los públicos.
+9 - Clasificación por edades: Apto para todo los públicos.
 
 10 - Santa Ana en tus manos, no Google, es el único responsable de la aplicación y su contenido.
 

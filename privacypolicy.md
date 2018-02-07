@@ -4,7 +4,7 @@
 
 El respeto a tu privacidad está totalmente garantizado.
 
-1 - A través de esta aplicación no se recaban datos de carácter personal de los usuarios.
+1 - A través de esta aplicación no se recaban datos de ninguna naturaleza de los usuarios.
 
 2 - No se registran direcciones IP.
 
@@ -12,20 +12,19 @@ El respeto a tu privacidad está totalmente garantizado.
 
 4 - La aplicación no guarda datos ni hace seguimientos sobre tiempos y horarios de utilización.
 
-5 - La aplicación no guarda información relativa a tu dispositivo como, por ejemplo, fallos, actividad del sistema, ajustes del hardware, tipo de navegador, idioma del navegador.
+5 - La aplicación no guarda información relativa a tu dispositivo como: fallos, actividad del sistema, ajustes del hardware, tipo de navegador, idioma del navegador.
 
 6 - La aplicación no accede a tus contactos ni agendas.
 
 7 - La aplicación no recopila información sobre tu ubicación real.
 
-8 - Remarketing con Google AdMob
-Proveedores como Google, utilizan cookies de primer nivel y cookies de terceros u otros identificadores de terceros para compilar datos sobre las interacciones de los usuarios con las impresiones de anuncios y otras funciones de servicio de anuncios.
+8 - La aplicación utiliza la cámara del dispositivo como interfaz para mostrar elementos de Realidad Aumentada, en ningún momento captura o guarda fotos e imágenes a través de la aplicación.
 
 9 - Clasificación por edades: PEGI 3 - Apto para todos los públicos.
 
-10 - Faster Memory, no Google, es el único responsable de Faster Memory y su contenido.
+10 - Santa Ana en tus manos, no Google, es el único responsable de la aplicación y su contenido.
 
-11 - Mantenimiento y Soporte: Faster Memory, no Google, estará obligado a proporcionar dicho mantenimiento o soporte.
+11 - Mantenimiento y Soporte: Santa Ana en tus manos, no Google, estará obligado a proporcionar dicho mantenimiento o soporte.
 
 12 - Cargos y cuotas:
      Cualquier uso de esta aplicación es totalmente gratuito.

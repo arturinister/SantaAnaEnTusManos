@@ -1,0 +1,25 @@
+# POLÍTICA DE PRIVACIDAD
+
+Última modificación: 7 de Febrero de 2018
+
+El respeto a tu privacidad está totalmente garantizado.
+
+1 - A través de esta aplicación no se recaban datos de carácter personal de los usuarios.
+2 - No se registran direcciones IP.
+3 - No se accede a las cuentas de correo de los usuarios.
+4 - La aplicación no guarda datos ni hace seguimientos sobre tiempos y horarios de utilización.
+5 - La aplicación no guarda información relativa a tu dispositivo como, por ejemplo, fallos, actividad del sistema, ajustes del hardware, tipo de navegador, idioma del navegador.
+6 - La aplicación no accede a tus contactos ni agendas.
+7 - La aplicación no recopila información sobre tu ubicación real.
+8 - Remarketing con Google AdMob
+Proveedores como Google, utilizan cookies de primer nivel y cookies de terceros u otros identificadores de terceros para compilar datos sobre las interacciones de los usuarios con las impresiones de anuncios y otras funciones de servicio de anuncios.
+9 - Clasificación por edades: PEGI 3 - Apto para todos los públicos.
+10 - Faster Memory, no Google, es el único responsable de Faster Memory y su contenido.
+11 - Mantenimiento y Soporte: Faster Memory, no Google, estará obligado a proporcionar dicho mantenimiento o soporte.
+12 - Cargos y cuotas:
+     Cualquier uso de esta aplicación es totalmente gratuito.
+13 - Cambios en nuestra Política de Privacidad:
+     Nuestra Política de Privacidad puede cambiar de vez en cuando.
+     Publicaremos cualquier cambio de política de privacidad en esta página, por lo que debe revisarla periódicamente.
+14 - Contacto:
+Si tiene alguna pregunta sobre esta Política o para informar de cualquier violación de la Política, envíe un correo electrónico a: itcainvestigacion@gmail.com
